@@ -1,4 +1,4 @@
-<h1 align="center" color= "red"> Portifolio de Felipe Cardenaz de Melo  🚀</h1>
+<h1 align="center" color= "red"> Calculadora de Médias FIAP  🚀</h1>
 
 <h2> Tecnologias utiliadas: HTML, CSS, JavaScript</h2>
 
